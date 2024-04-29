@@ -6,7 +6,6 @@ Recomendador de Filmes baseado em Conteúdo.
 
 ## Alunos
 ### [Arthur Sanchez Fortuna](https://github.com/Trampos-ML/TCC-ML/tree/pamonha)
-<<<<<<< pamonha
 
 ### Arthur Carvalho de Mario
 
