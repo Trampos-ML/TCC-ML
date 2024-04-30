@@ -7,7 +7,7 @@ Recomendador de Filmes baseado em Conteúdo.
 ## Alunos
 ### [Arthur Sanchez Fortuna](https://github.com/Trampos-ML/TCC-ML/tree/pamonha)
 
-### Arthur Carvalho de Mario
+### [Arthur Carvalho de Mario](https://github.com/Trampos-ML/TCC-ML/tree/girafa/recomendation)
 
 ### [Luciano Duarte Gonzalez](https://github.com/Trampos-ML/TCC-ML/tree/bebo)
 
