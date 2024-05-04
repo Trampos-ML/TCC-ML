@@ -4,7 +4,7 @@ Trabalho Final de Conclusão de Curso de Ciência de Dados e Machine Learning.
 
 Recomendador de Filmes baseado em Conteúdo.
 Link do Repo do projeto
-### https://github.com/Trampos-ML/TCC-ML
+### [Repo do Projeto](https://github.com/Trampos-ML/TCC-ML)
 
 
 ## Alunos
